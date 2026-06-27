@@ -54,5 +54,5 @@ It uses the digital logic concepts and also shows a result with steps so the use
    ## Get in touch
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25Ð66?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dk900x)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-sam-82a63230a)  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+254740553037) <a href="mailto: aether.arnold@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="30"/>
+  <img src="https://cdn.simpleicons.org/gmail/white" width="30"/>
 </a>
