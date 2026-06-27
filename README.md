@@ -53,4 +53,4 @@ It uses the digital logic concepts and also shows a result with steps so the use
 
    ## Get in touch
 
-   [![Whatsapp](https://img.shields.io/badge/Whatsapp-25Ð66?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dk900x) | [![Email]([https://flaticon.com](https://cdn-icons-png.flaticon.com/128/15047/15047587.png))](mailto:aether.arnold@gmail.com) | [![LinkedIn]([https://flaticon.com](https://www.flaticon.com/free-icon-font/linkedin_6422202))](https://linkedin.com/in/arnold-sam-82a63230a) | [![Phone]([https://flaticon.com](https://www.flaticon.com/free-icon/telephone_953831))](tel:+254740553037)
+   [![Whatsapp](https://img.shields.io/badge/Whatsapp-25Ð66?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dk900x) | [![Email](https;//img.shields.io/badge/gmail-ea4335/style=for-the-badge7logo=gmail7logocolor=white)](mailto:aether.arnold@gmail.com) | [![LinkedIn]([https://flaticon.com](https://www.flaticon.com/free-icon-font/linkedin_6422202))](https://linkedin.com/in/arnold-sam-82a63230a) | [![Phone]([https://flaticon.com](https://www.flaticon.com/free-icon/telephone_953831))](tel:+254740553037)
