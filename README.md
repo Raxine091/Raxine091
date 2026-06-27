@@ -8,8 +8,8 @@ that help customers achieve their day to day tasks*
 - 🌱 I’m currently learning python to intergrate into my products.
 
 ## My Stack
-| Layer | Technologies |<br>
-| :---: | :---: |<br>
-|**Frontend**| HTML5, CSS3, JavaScript |<br>
-|**Backend**| PHP 8 |<br>
+| Layer | Technologies |
+| :---: | :---: |
+|**Frontend**| HTML5, CSS3, JavaScript |
+|**Backend**| PHP 8 |
 |**Database**| MySQL|
