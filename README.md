@@ -54,4 +54,4 @@ It uses the digital logic concepts and also shows a result with steps so the use
 
    ## Get in touch
 
-   [![Whatsapp](https://flaticon.com)](https://wa.link/dk900x) | [![Email](https://flaticon.com)](mailto:aether.arnold@gmail.com) | [![LinkedIn](https://flaticon.com)](https://linkedin.com/in/arnold-sam-82a63230a) | [![Phone](https://flaticon.com)](tel:+254740553037)
+   [![Whatsapp]([https://flaticon.com](https://www.flaticon.com/free-icon-font/whatsapp_6422213))](https://wa.link/dk900x) | [![Email]([https://flaticon.com](https://cdn-icons-png.flaticon.com/128/15047/15047587.png))](mailto:aether.arnold@gmail.com) | [![LinkedIn]([https://flaticon.com](https://www.flaticon.com/free-icon-font/linkedin_6422202))](https://linkedin.com/in/arnold-sam-82a63230a) | [![Phone]([https://flaticon.com](https://www.flaticon.com/free-icon/telephone_953831))](tel:+254740553037)
