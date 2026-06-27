@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Arnold
 ### Software Engineer | Website design & development | App development
 
-*I design and build custom software solutions ranging from websites to fully automative systems   
-that help customers achieve their day to day tasks*
+*I design and build custom software solutions ranging from websites to fully automative systems that help customers achieve their day to day tasks*
 
 🔭 I’m currently working on TRAC a startup for software solutions targeting small and medium enterprises
 while learning python to intergrate into my products.
