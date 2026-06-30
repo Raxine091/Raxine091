@@ -58,7 +58,7 @@ It uses the digital logic concepts and also shows a result with steps so the use
    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raxine091"> --> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raxine091&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raxine091&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raxine091">
 </picture>
 
 
