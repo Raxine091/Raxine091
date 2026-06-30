@@ -54,6 +54,9 @@ It uses the digital logic concepts and also shows a result with steps so the use
 
    ## Github Activity
 
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raxine091">
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 
    ## Get in touch
