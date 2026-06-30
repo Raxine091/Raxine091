@@ -49,11 +49,17 @@ It uses the digital logic concepts and also shows a result with steps so the use
    It just displays items on the menu and it's price  
    This was tailor-made for clients who only seek digital visibility  
    but do not target direct online sales.  
-   [View Sample](https://raxine091.github.io/Web-Technologies/)
+   [View Sample](https://raxine091.github.io/Web-Technologies/)  
+
+
+   ## Github Activity
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 
    ## Get in touch
 
 <a href="https://linkedin.com/in/arnold-sam-82a63230a"><img src="https://unpkg.com/simple-icons@13.21.0/icons/linkedin.svg" width="30"></a>  <a href="mailto: aether.arnold@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="30"/></a> <a href="https://wa.link/dk900x"><img src="https://cdn.simpleicons.org/whatsapp/green" width="30"/></a> 
 <a href="https://signal.me/#eu/XXwjIQH0TwxGRHpmlTZn5jvZjBZwXzr-X79q7A0S9FrQ2Ceq_NVPWoJbS74zPaJC">
   <img src="https://cdn.simpleicons.org/signal/blue" width="30"/>
-</a>
+</a>  
+
